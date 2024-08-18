@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/News-Website-Using-React/static/css/main.013855a6.css",
+    "main.js": "/News-Website-Using-React/static/js/main.2af34559.js",
+    "static/media/breakingNews.mp4": "/News-Website-Using-React/static/media/breakingNews.573b0d1357ed273ba8e2.mp4",
+    "static/media/news1.png": "/News-Website-Using-React/static/media/news1.9521567673245696ea68.png",
+    "static/media/video3.mp4": "/News-Website-Using-React/static/media/video3.b3dbad386cfe7094b385.mp4",
+    "static/media/news4.png": "/News-Website-Using-React/static/media/news4.a2ca1cb24b4063822b51.png",
+    "static/media/video2.mp4": "/News-Website-Using-React/static/media/video2.43db1332653dde446f0f.mp4",
+    "static/media/news2.png": "/News-Website-Using-React/static/media/news2.1397eef37e69962c3735.png",
+    "static/media/news3.png": "/News-Website-Using-React/static/media/news3.40c53679761101e5a792.png",
+    "static/media/video4.mp4": "/News-Website-Using-React/static/media/video4.02761041f869d70735a5.mp4",
+    "static/media/logo.png": "/News-Website-Using-React/static/media/logo.7c58622c053679d26838.png",
+    "static/media/twitter.png": "/News-Website-Using-React/static/media/twitter.e4f83bef4191a65e9c7d.png",
+    "static/media/whatsapp.png": "/News-Website-Using-React/static/media/whatsapp.fdd4b7007148bcf6ce48.png",
+    "static/media/spotify.png": "/News-Website-Using-React/static/media/spotify.91a40dc3de3ba44b08dd.png",
+    "static/media/instagram.png": "/News-Website-Using-React/static/media/instagram.bc603acad2a8cb3bd098.png",
+    "static/media/playstore.png": "/News-Website-Using-React/static/media/playstore.23f630669d8da5a9a1e4.png",
+    "static/media/telegram.png": "/News-Website-Using-React/static/media/telegram.f677c7c22e582799a8cb.png",
+    "index.html": "/News-Website-Using-React/index.html",
+    "main.013855a6.css.map": "/News-Website-Using-React/static/css/main.013855a6.css.map",
+    "main.2af34559.js.map": "/News-Website-Using-React/static/js/main.2af34559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013855a6.css",
+    "static/js/main.2af34559.js"
+  ]
+}
